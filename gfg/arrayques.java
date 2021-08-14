@@ -7,6 +7,7 @@ import java.util.*;
 public class GFG {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
+        //input T
         int T = sc.nextInt();
         while(T>0)
         {
