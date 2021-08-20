@@ -4,6 +4,7 @@ using namespace std;
 int main() {
 	// your code goes here
 		int test;
+		/*input the value of test*/
 	cin>>test;
 	while(test!=0)
 	{
@@ -26,6 +27,7 @@ int main() {
 	        cout<<'2'<<endl;
 	    }
 	    test=test-1;
+	    /* value of test getting updated*/
 	}
 	return 0;
 }

@@ -9,6 +9,7 @@ class Codechef
 	{
 		// your code goes here
 		Scanner sc=new Scanner(System.in);
+		//input the value of test
 		int test=sc.nextInt();
 		while(test>0)
 		{
